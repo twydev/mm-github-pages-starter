@@ -14,11 +14,11 @@ The book advocates effective time management to help you deliver your projects o
 I encourage everyone to grab an actual copy of the book and start reading.
 
 
-
-# The Effective Engineer
-*How to Leverage your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact*
-
-*Edmund Lau, 2015*
+<div class="notice">
+  <h4>The Effective Engineer</h4>
+  <p><i>How to Leverage your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact</i></p>
+  <p><i>Edmund Lau, 2015</i></p>
+</div>
 
 ### Foreword
 *Bret Taylor, CEO of Quip*

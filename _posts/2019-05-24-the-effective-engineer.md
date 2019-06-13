@@ -17,7 +17,7 @@ I encourage everyone to grab an actual copy of the book and start reading.
 {: .notice--primary}
 
 
-# Introduction
+## Introduction
 Effectiveness is determined by both time taken and value produced. An effective engineer produces high value in a short time.
 
 ### Foreword
@@ -25,7 +25,7 @@ Effectiveness is determined by both time taken and value produced. An effective 
 
 > Silicon Valley would be a much better place for both managers and engineers if people embraced "working smart" rather than "working hard".
 
-# Adopt the Right Mindset
+## Adopt the Right Mindset
 
 ### 1. Focus on High-Leverage Activities
 Leverage = Impact Produced / Time Invested
@@ -168,7 +168,7 @@ Adopting this plan helps you overcome the inertia of putting off tasks, helps yo
 A myriad of workflow systems are available. Find that suits your needs. The author is personally using Asana, with a workflow that performs a weekly review of tasks and plans out the following week. Daily milestones and minor adjustments are made every morning. The actual to-do list incorporates all the tips mentioned in this section.
 
 
-# Execution
+## Execution
 
 ### 4. Invest in Iteration Speed
 
@@ -430,7 +430,7 @@ In general, it is more realistic to either extend the deadline or deliver what i
 - be ready to abandon the sprint if you slip further from deadline.
 
 
-# Build Long-Term Value
+## Build Long-Term Value
 
 ### 8. Balance Quality with Pragmatism
 
@@ -656,7 +656,7 @@ From  the author's past experience, a great engineering culture has the followin
 Great culture isn't built in one day. It improves iteratively, and as a great culture attracts stronger talent, the positive feedback cycle propagates.
 
 
-# Epilogue
+## Epilogue
 Edmund Lau, the awesome author:
 
 > Time is our most finite asset, and leverage - the value we produce per unit time - allows us to direct our time toward what matters most.

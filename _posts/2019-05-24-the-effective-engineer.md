@@ -20,15 +20,14 @@ I encourage everyone to grab an actual copy of the book and start reading.
   <p><i>Edmund Lau, 2015</i></p>
 </div>
 
-### Foreword
-*Bret Taylor, CEO of Quip*
-
-> Silicon Valley would be a much better place for both managers and engineers if people embraced "working smart" rather than "working hard".
-
 
 # Introduction
 Effectiveness is determined by both time taken and value produced. An effective engineer produces high value in a short time.
 
+### Foreword
+*Bret Taylor, CEO of Quip*
+
+> Silicon Valley would be a much better place for both managers and engineers if people embraced "working smart" rather than "working hard".
 
 # Adopt the Right Mindset
 

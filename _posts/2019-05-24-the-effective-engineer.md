@@ -1,33 +1,35 @@
 ---
 title: "The Effective Engineer"
+toc: true
+toc_label: "Chapters"
 categories:
   - Book Review
 tags:
   - engineering
   - management
-toc: true
 ---
 
 The book advocates effective time management to help you deliver your projects on time. Scenarios and examples provided in the book are very relevant and relatable to all professional engineers. The key to effectiveness is to focus on high impact activities. You may be surprised that some of the highest impact activities are not related to the actual work of delivering the projects. Building a strong foundation and culture for your engineering team is likely the best investment of your time.
 
 I encourage everyone to grab an actual copy of the book and start reading.
 
+
+
 # The Effective Engineer
 *How to Leverage your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact*
 
 *Edmund Lau, 2015*
 
----
 ### Foreword
 *Bret Taylor, CEO of Quip*
 
 > Silicon Valley would be a much better place for both managers and engineers if people embraced "working smart" rather than "working hard".
 
----
+
 # Introduction
 Effectiveness is determined by both time taken and value produced. An effective engineer produces high value in a short time.
 
----
+
 # Adopt the Right Mindset
 
 ### 1. Focus on High-Leverage Activities
@@ -51,7 +53,7 @@ For every actvity you perform, ask yourself if any or all of the three improveme
 
 Resources are never sufficient. Adopt habits that produce disproportionately high impact for any time spent.
 
----
+
 ### 2. Optimize for Learning
 Optimizing for learning is a high-leverage activity for an effective engineer.
 
@@ -128,7 +130,7 @@ Here are some other points to cultivate a habit of learning outside of work:
 9. Tinker on side projects.
 10. Pursue what you love.
 
----
+
 ### 3. Prioritize Regularly
 Prioritising regularly is a most highly leveraging activity as it determines the amount of leverage for the rest of your time.
 
@@ -170,7 +172,7 @@ Adopting this plan helps you overcome the inertia of putting off tasks, helps yo
 
 A myriad of workflow systems are available. Find that suits your needs. The author is personally using Asana, with a workflow that performs a weekly review of tasks and plans out the following week. Daily milestones and minor adjustments are made every morning. The actual to-do list incorporates all the tips mentioned in this section.
 
----
+
 # Execution
 
 ### 4. Invest in Iteration Speed
@@ -221,7 +223,7 @@ Programming environment do not change drastically. Mastering the standard tools 
 
 Some bottlenecks may be outside your sphere of influence. Just do your best to optimise the biggest bottleneck within your control.
 
----
+
 ### 5. Measure What You Want to Improve
 Having a good metric to quantify user happiness is important. Example given in the book for Google Search's succss is using long click (duration user spent on the linked page before returning to the search result page) as a measure for user satisfaction with the search results.
 
@@ -307,7 +309,7 @@ Strategies you can consider:
 - cross validate data accuracy by computing the same metric in multiple ways.
 - when a number looks off, investigate early.
 
----
+
 ### 6. Validate Your Ideas Early and Often
 Faster iteration helps us get more things done. Frequent validation helps us get the right things done.
 
@@ -356,7 +358,7 @@ Validation should be built into decisions made at all levels of management, not 
 
 For more radical changes, perhaps a thought experiment amd soliciting feedback from others would suffice.
 
----
+
 ### 7. Improve Your Project Estimation Skills
 Based on a study done in 2009, out of 50,000 software projects survey, 44% are delivered late, overbudgeted or missing requirements.
 
@@ -432,7 +434,7 @@ In general, it is more realistic to either extend the deadline or deliver what i
 - develop a realistic and revised plan and timeline.
 - be ready to abandon the sprint if you slip further from deadline.
 
----
+
 # Build Long-Term Value
 
 ### 8. Balance Quality with Pragmatism
@@ -501,7 +503,7 @@ Technical debt can happen when we take shortcuts using quick and dirty workaroun
 
 Try having a regular schedule to fix technical debt. Also, try to prioritise fixing the highest leverage code first.
 
----
+
 ### 9. Minimize Operational Burden
 
 If we create software that compounds operational efforts (scale features, maintain uptime, fix bug, new recruit onboarding) over time in order to perform, then eventually the entire development team will be engulfed by operations work.
@@ -580,7 +582,7 @@ It is helpful to map out failure scenarios, put contingencies in place, and simu
 
 This applies to non-technical aspects, such as changes in management direction, manpower movements, user revolt etc.
 
----
+
 ### 10. Invest in Your Team's Growth
 
 Your effectiveness is often measured by the impact of the entire team. Therefore, if everyone else is successful, you will be swept along by the tide even if you did nothing.
@@ -658,7 +660,7 @@ From  the author's past experience, a great engineering culture has the followin
 
 Great culture isn't built in one day. It improves iteratively, and as a great culture attracts stronger talent, the positive feedback cycle propagates.
 
----
+
 # Epilogue
 Edmund Lau, the awesome author:
 

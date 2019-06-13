@@ -1,6 +1,6 @@
 ---
-title: "Notes by Year"
+title: "notes by Year"
 permalink: /notes/
-layout: notes
+layout: posts
 author_profile: true
 ---

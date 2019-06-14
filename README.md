@@ -1,7 +1,7 @@
-[Minimal Mistake - theme source code](https://github.com/mmistakes/minimal-mistakes)
-[Minimal Mistake - starter demo site](https://mmistakes.github.io/mm-github-pages-starter)
-[Minimal Mistake - documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
-[Minimal Mistake - documentation source code](https://github.com/mmistakes/minimal-mistakes/tree/master/docs)
+- [Minimal Mistake - theme source code](https://github.com/mmistakes/minimal-mistakes)
+- [Minimal Mistake - starter demo site](https://mmistakes.github.io/mm-github-pages-starter)
+- [Minimal Mistake - documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- [Minimal Mistake - documentation source code](https://github.com/mmistakes/minimal-mistakes/tree/master/docs)
 
 # Minimal Mistakes remote theme starter
 

@@ -2,6 +2,7 @@
 title: "The Effective Engineer"
 toc: true
 toc_label: "Chapters"
+author_profile: false
 categories:
   - Book Review
 tags:

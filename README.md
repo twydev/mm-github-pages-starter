@@ -1,3 +1,8 @@
+[Minimal Mistake - theme source code](https://github.com/mmistakes/minimal-mistakes)
+[Minimal Mistake - starter demo site](https://mmistakes.github.io/mm-github-pages-starter)
+[Minimal Mistake - documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+[Minimal Mistake - documentation source code](https://github.com/mmistakes/minimal-mistakes/tree/master/docs)
+
 # Minimal Mistakes remote theme starter
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
@@ -25,7 +30,3 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
-
-## Original Test Site
-
-https://mmistakes.github.io/mm-github-pages-starter

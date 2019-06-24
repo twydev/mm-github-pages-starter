@@ -1,6 +1,4 @@
 main:
-  - title: "digests"
-    url: /digests/
   - title: "notes"
     url: /notes/
   - title: "Categories"

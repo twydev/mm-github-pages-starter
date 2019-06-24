@@ -1,6 +1,6 @@
 ---
 title: "digests"
 permalink: /digests/
-layout: posts
+layout: digests
 author_profile: true
 ---

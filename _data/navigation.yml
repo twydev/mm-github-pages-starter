@@ -1,6 +1,6 @@
 main:
   - title: "Weekly Digests"
-    url: /digests-archive/
+    url: /digests/
   - title: "notes"
     url: /notes/
   - title: "Categories"

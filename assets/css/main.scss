@@ -8,9 +8,12 @@
 @import "minimal-mistakes"; // main partials
 
 .page__content {
-    p,
+    p {
+        font-size: 0.75em;
+    }
+    
     li,
     dl {
-        font-size: 0.75em;
+        font-size: 0.9em;
     }
 }

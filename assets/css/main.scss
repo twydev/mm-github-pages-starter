@@ -4,16 +4,7 @@
 
 @charset "utf-8";
 
+$doc-font-size: 12;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.page__content {
-    p {
-        font-size: 0.75em;
-    }
-    
-    li,
-    dl {
-        font-size: 0.9em;
-    }
-}
